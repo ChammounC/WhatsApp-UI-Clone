@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
   ];
   final _myTabs = <Tab>[
     const Tab(
-      icon: Icon(
+      icon: Icon( 
         Icons.camera_alt,
         size: 20,
       ),
